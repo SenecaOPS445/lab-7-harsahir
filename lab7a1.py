@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Student ID: Harsahir Singh (hs100)
+# Student ID: Harsahir Singh (hs100) 
 from lab7a import *
 t1 = Time(8,0,0)
 t2 = Time(8,55,0)
